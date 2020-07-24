@@ -1,5 +1,5 @@
 # vue_todolist
-
+This is the code for [the crash course on YouTube](https://youtu.be/Wy9q22isx3U)
 ## Project setup
 ```
 npm install
